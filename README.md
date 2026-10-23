@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Chandana K T
-🎓 CSE AIML | 3rd-year student | Aspiring SDE  <br>🐍 Learning Python, DSA, and system design  <br>💻 Building backend & full-stack projects  <br>📚 Practicing DSA on LeetCode to sharpen problem-solving skills  <br>🌱 Passionate about learning & real-world problem solving  <br>🤝 Open to collaborations, internships, and mentorship
+🎓 CSE AIML | 4th-year student | Aspiring SDE  <br>🐍 Learning Python, DSA, and system design  <br>💻 Building backend & full-stack projects  <br>📚 Practicing DSA on LeetCode to sharpen problem-solving skills  <br>🌱 Passionate about learning & real-world problem solving  <br>🤝 Open to collaborations, internships, and mentorship
 
 
 ## 🌐 Socials:
